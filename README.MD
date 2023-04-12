@@ -39,15 +39,12 @@
 
 ```
 
-  
 
-| Status | Meaning | Description | Schema |
-
+| Status | Meaning                                                          | Description | Schema                        |
 | ------ | ---------------------------------------------------------------- | ----------- | ----------------------------- |
+| 200    | OK     | Success     | vmResult       |
+| 400    | Bad Request | Bad Request | vmResult |
 
-| 200 | OK | Success | vmResult |
-
-| 400 | Bad Request | Bad Request | vmResult |
 
 #### `POST /api/Usuario/InsertUsuario`
 
