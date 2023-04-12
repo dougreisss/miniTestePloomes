@@ -61,7 +61,7 @@ namespace testePloomesMini.API.Controllers
             {
                 result.friendlyErrorMessage = "Houve um erro";
                 result.stackTrace = ex.Message + "/n" + ex.StackTrace;
-                return BadRequest(result); ;
+                return BadRequest(result); 
             }
         }
     }

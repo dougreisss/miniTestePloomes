@@ -43,6 +43,10 @@ namespace testePloomesMini.API
             services.AddSingleton<IGetUsuariosDomain, GetUsuariosDomain>();
             services.AddSingleton<IUsuarioApplication, UsuarioApplication>();
             services.AddSingleton<IInsertUsuarioDomain, InsertUsuarioDomain>();
+            services.AddSingleton<IGetClientesDomain, GetClientesDomain>();
+            services.AddSingleton<IClienteRepository, ClienteRepository>();
+            services.AddSingleton<IClienteApplication, ClienteApplication>();
+            services.AddSingleton<IInsertClienteDomain, InsertClienteDomain>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

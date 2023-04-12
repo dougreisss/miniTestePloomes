@@ -5,11 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using testePloomesMini.WebApi.Models;
 
-namespace testePloomesMini.Domain.Interfaces.Repository
+namespace testePloomesMini.Domain.Interfaces.Command
 {
-    public interface IClienteRepository
+    public interface IGetClientesDomain
     {
         public List<Cliente> GetClientes();
-        public bool InsertCliente(Cliente cliente);
     }
 }

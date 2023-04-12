@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace testePloomesMini.Application.ViewModel
+{
+    public class vmCliente
+    {
+        public int IdCliente { get; set; }
+        public string EmailUsuario { get; set; }
+        public string NomeCliente { get; set; }
+        public DateTime DataCriacaoUsuario { get; set; }
+    }
+}
