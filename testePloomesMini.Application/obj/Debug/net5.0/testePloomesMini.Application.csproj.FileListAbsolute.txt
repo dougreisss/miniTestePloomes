@@ -1,0 +1,15 @@
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\testePloomesMini.Application.deps.json
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\testePloomesMini.Application.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\ref\testePloomesMini.Application.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\testePloomesMini.Application.pdb
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\bin\Debug\net5.0\testePloomesMini.Domain.pdb
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.csproj.AssemblyReference.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.csproj.CopyComplete
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\ref\testePloomesMini.Application.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Application\obj\Debug\net5.0\testePloomesMini.Application.pdb

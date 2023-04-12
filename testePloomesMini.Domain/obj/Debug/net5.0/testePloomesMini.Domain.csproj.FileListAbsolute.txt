@@ -1,0 +1,12 @@
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\bin\Debug\net5.0\testePloomesMini.Domain.deps.json
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\bin\Debug\net5.0\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\bin\Debug\net5.0\ref\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\bin\Debug\net5.0\testePloomesMini.Domain.pdb
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.csproj.AssemblyReference.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\ref\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Domain\obj\Debug\net5.0\testePloomesMini.Domain.pdb

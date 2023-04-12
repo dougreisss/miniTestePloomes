@@ -1,0 +1,15 @@
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\testePloomesMini.Infra.deps.json
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\testePloomesMini.Infra.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\ref\testePloomesMini.Infra.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\testePloomesMini.Infra.pdb
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\testePloomesMini.Domain.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\bin\Debug\net5.0\testePloomesMini.Domain.pdb
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.csproj.AssemblyReference.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.csproj.CopyComplete
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\ref\testePloomesMini.Infra.dll
+C:\Users\Dougl\Documents\Estudo\testePloomesMini\testePloomesMini.Infra\obj\Debug\net5.0\testePloomesMini.Infra.pdb

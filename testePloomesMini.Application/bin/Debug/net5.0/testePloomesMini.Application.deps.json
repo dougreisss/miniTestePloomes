@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "testePloomesMini.Application/1.0.0": {
+        "dependencies": {
+          "testePloomesMini.Domain": "1.0.0"
+        },
+        "runtime": {
+          "testePloomesMini.Application.dll": {}
+        }
+      },
+      "testePloomesMini.Domain/1.0.0": {
+        "runtime": {
+          "testePloomesMini.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testePloomesMini.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "testePloomesMini.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
