@@ -49,10 +49,27 @@
 
 > Body parameter
 
-| Name | In | Type | Description |
 
-| -------- | ----- | -------------- | --------------------------------------------------------------------------------------------- |
+| Name     | In    | Type           | Description                                                                                   |
+| -------- | ----- | -------------- |  --------------------------------------------------------------------------------------------- |
+| emailUsuario     | query | string | E-mail do usuário.                                                                              |
+| nomeUsuario | query | string |  Nome do usuário.                                                                                |
 
-| emailUsuario| query | string | Email do usuário. |
+*Exemplo de retorno:*
 
-| nomeUsuario| query | string | Nome do usuário.|
+```json
+{
+  "data": {
+    "emailUsuario": "teste3@gmail.com",
+    "nomeUsuario": "teste"
+  },
+  "friendlyErrorMessage": null,
+  "message": "Registro inserido com sucesso!",
+  "stackTrace": null
+}
+```
+
+| Status | Meaning                                                          | Description | Schema                        |
+| ------ | ---------------------------------------------------------------- | ----------- | ----------------------------- |
+| 200    | OK     | Success     | vmResult       |
+| 400    | Bad Request | Bad Request | vmResult |
